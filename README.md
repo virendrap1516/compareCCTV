@@ -48,3 +48,9 @@ top10_scores.png → This shows a bar chart comparing the composite scores of th
 ##  Screenshot of TOP10 ranked CCTV cameras with their details 📱
 <img width="1913" height="1015" alt="Screenshot 2025-09-06 172903" src="https://github.com/user-attachments/assets/ba3b13e1-2a6c-4ab4-93ed-1942e01dbf4a" />
 
+---
+
+
+_Made with ❤️ by [Virendra Pawar](https://github.com/virendrap1516)_
+
+Email: Virendrapawar47@gmail.com 📧
