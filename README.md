@@ -44,3 +44,7 @@ Scoring Model: Developing a simple or complex scoring system to rank the product
 Top10_CCTV.xlsx → Contains the top 10 ranked CCTV cameras with their details.▶️
 
 top10_scores.png → This shows a bar chart comparing the composite scores of the top 10 cameras.💥
+
+##  Screenshot of TOP10 ranked CCTV cameras with their details 📱
+<img width="1913" height="1015" alt="Screenshot 2025-09-06 172903" src="https://github.com/user-attachments/assets/ba3b13e1-2a6c-4ab4-93ed-1942e01dbf4a" />
+
